@@ -2,6 +2,6 @@
   <body>
     <h1> Ceva de-a dreptul secret... </h1>
       <p> Oare ce să fie? <p>
-    /*hello world*/
+    <!--hello u look handsome today-->
   </body>
 </html>
